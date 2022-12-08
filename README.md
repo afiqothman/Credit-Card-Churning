@@ -2,7 +2,7 @@
 
 1. Context: A manager at the bank is disturbed with more and more customers leaving their credit card services. They would really appreciate if one could predict for them who is get churned so they can proactively go to the customer to provide them better services and turn customers' decisions in the opposite direction.
 
-Dataset source from a website with the URL as https://leaps.analyttica.com/home. This dataset consists of 10,000 customers and 18 features mentioning their age, salary, marital_status, credit card limit, credit card category, etc.
+  Dataset source from a website with the URL as https://leaps.analyttica.com/home. This dataset consists of 10,000 customers and 18 features mentioning their age, salary, marital_status, credit card limit, credit card category, etc.
 
 2. Aim: To analyze factors leads to problem of customer credit card attrition.
 
@@ -32,4 +32,4 @@ Dataset source from a website with the URL as https://leaps.analyttica.com/home.
 - NaiveBayesClassifier_attribution: Naive Bayes
 - NaiveBayesClassifier_attribution: Naive Baye
 
-Data source: https://www.kaggle.com/datasets/7d4d0e192123378426001f0771c0d39340964d68b1aab645f04b08e0871904d5
+4. Data source: https://www.kaggle.com/datasets/7d4d0e192123378426001f0771c0d39340964d68b1aab645f04b08e0871904d5
